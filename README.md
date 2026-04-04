@@ -77,7 +77,7 @@ Organizations interested in:
 - Partnership
 are welcome to make contact.
 ________________________________________
-Contact To participate, send a test file to:<br>
+**Contact To participate**<br>Send a test file to:<br>
 Email: hsm6497@yahoo.com<br>
 Subject: Encryption Evaluation Request<br>
 You will receive the encrypted file for analysis.
