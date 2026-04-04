@@ -62,7 +62,9 @@ This challenge is intended for:
 •	Security companies
 •	Cryptography researchers
 •	Software companies
-•	Government agencies
+•	Government agencies	
+- Financial Tech
+- Banking industry
 •	Academic institutions
 ________________________________________
 Collaboration Opportunities
