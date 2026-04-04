@@ -41,13 +41,13 @@ ________________________________________
 What You Can Evaluate
 Participants may attempt:
 
-•	Cryptanalysis
-•	Pattern detection
-•	Statistical analysis
-•	Randomness testing
-•	Known-plaintext analysis
-•	Chosen-plaintext analysis
-•	Performance evaluation
+- Cryptanalysis
+- Pattern detection
+- Statistical analysis
+- Randomness testing
+- Known-plaintext analysis
+- Chosen-plaintext analysis
+- Performance evaluation
 ________________________________________
 Important Notes
 - This is a closed implementation test
