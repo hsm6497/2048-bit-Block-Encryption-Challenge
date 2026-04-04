@@ -56,7 +56,7 @@ Important Notes
 - Algorithm details remain confidential
 - Technical documentation available under NDA
 ________________________________________
-Intended Audience
+Intended Audience:
 This challenge is intended for:
 
 - Security companies
