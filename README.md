@@ -11,13 +11,13 @@ The algorithm uses key-dependent permutation generation during encryption.
 The theoretical brute-force space for one block:
 2^2048 ≈ 3.23 × 10^616
 ________________________________________
-Challenge Model:
+**Challenge Model**
 
-This is a black-box encryption challenge.
-Participants submit a file, and the encrypted output is returned for analysis.
+This is a black-box encryption challenge.<br>
+Participants submit a file, and the encrypted output is returned for analysis.<br>
 The internal algorithm and implementation are not disclosed.
 ________________________________________
-How to Participate:
+**How to Participate**
 
 Step 1
 Send any file for testing.
@@ -38,7 +38,7 @@ Step 4 (Optional)
 The original file can be decrypted to verify correctness.
 ________________________________________
 
-What You Can Evaluate<br>
+**What You Can Evaluate**<br>
 Participants may attempt:
 
 - Cryptanalysis
@@ -49,14 +49,14 @@ Participants may attempt:
 - Chosen-plaintext analysis
 - Performance evaluation
 ________________________________________
-Important Notes
+**Important Notes**
 - This is a closed implementation test
 - Source code is not shared
 - Executable is not distributed
 - Algorithm details remain confidential
 - Technical documentation available under NDA
 ________________________________________
-Intended Audience<br>
+**Intended Audience**<br>
 This challenge is intended for:
 
 - Security companies
@@ -67,7 +67,7 @@ This challenge is intended for:
 - Banking industry
 - Academic institutions
 ________________________________________
-Collaboration Opportunities<br>
+**Collaboration Opportunities**<br>
 Organizations interested in:
 
 - Licensing
