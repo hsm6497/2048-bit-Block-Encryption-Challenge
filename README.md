@@ -6,7 +6,7 @@
 •	Key size: User-defined, up to 256 bytes<br>
 •	Output block size: 2048 bits<br>
 •	File support: Any file type<br>
-•	Encrypted output format: BMP container (for transport compatibility)<br>
+•	Encrypted output format: BMP container (for transport compatibility)<br><br>
 The algorithm uses key-dependent permutation generation during encryption.
 The theoretical brute-force space for one block:
 2^2048 ≈ 3.23 × 10^616
