@@ -56,7 +56,7 @@ Important Notes
 - Algorithm details remain confidential
 - Technical documentation available under NDA
 ________________________________________
-Intended Audience:\<br>
+Intended Audience<br>
 This challenge is intended for:
 
 - Security companies
@@ -77,10 +77,9 @@ Organizations interested in:
 - Partnership
 are welcome to make contact.
 ________________________________________
-Contact
-To participate, send a test file to:
-Email: hsm6497@yahoo.com
-Subject:
-Encryption Evaluation Request
+Contact To participate, send a test file to:<br>
+Email: hsm6497@yahoo.com<br>
+Subject:<br>
+Encryption Evaluation Request<br>
 You will receive the encrypted file for analysis.
 ________________________________________
