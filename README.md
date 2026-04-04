@@ -21,9 +21,9 @@ How to Participate:
 
 Step 1
 Send any file for testing.
-•	Any file type accepted
-•	Small or large files
-•	Random data recommended for analysis
+- Any file type accepted
+- Small or large files
+- Random data recommended for analysis
 
 Step 2
 The file will be:
@@ -50,11 +50,11 @@ Participants may attempt:
 •	Performance evaluation
 ________________________________________
 Important Notes
-•	This is a closed implementation test
-•	Source code is not shared
-•	Executable is not distributed
-•	Algorithm details remain confidential
-•	Technical documentation available under NDA
+- This is a closed implementation test
+- Source code is not shared
+- Executable is not distributed
+- Algorithm details remain confidential
+- Technical documentation available under NDA
 ________________________________________
 Intended Audience
 This challenge is intended for:
@@ -70,11 +70,11 @@ ________________________________________
 Collaboration Opportunities
 Organizations interested in:
 
-•	Licensing
-•	Commercial use
-•	Security review
-•	Integration
-•	Partnership
+- Licensing
+- Commercial use
+- Security review
+- Integration
+- Partnership
 are welcome to make contact.
 ________________________________________
 Contact
