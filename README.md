@@ -38,7 +38,7 @@ Step 4 (Optional)
 The original file can be decrypted to verify correctness.
 ________________________________________
 
-What You Can Evaluate
+What You Can Evaluate\n
 Participants may attempt:
 
 - Cryptanalysis
