@@ -59,13 +59,13 @@ ________________________________________
 Intended Audience
 This challenge is intended for:
 
-•	Security companies
-•	Cryptography researchers
-•	Software companies
-•	Government agencies	
+- Security companies
+- Cryptography researchers
+- Software companies
+- Government agencies	
 - Financial Tech
 - Banking industry
-•	Academic institutions
+- Academic institutions
 ________________________________________
 Collaboration Opportunities
 Organizations interested in:
