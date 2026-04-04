@@ -38,7 +38,7 @@ Step 4 (Optional)
 The original file can be decrypted to verify correctness.
 ________________________________________
 
-What You Can Evaluate\n
+What You Can Evaluate<br>
 Participants may attempt:
 
 - Cryptanalysis
@@ -56,7 +56,7 @@ Important Notes
 - Algorithm details remain confidential
 - Technical documentation available under NDA
 ________________________________________
-Intended Audience:
+Intended Audience:\<br>
 This challenge is intended for:
 
 - Security companies
@@ -67,7 +67,7 @@ This challenge is intended for:
 - Banking industry
 - Academic institutions
 ________________________________________
-Collaboration Opportunities
+Collaboration Opportunities<br>
 Organizations interested in:
 
 - Licensing
