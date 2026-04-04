@@ -1,5 +1,5 @@
 # 2048-bit-Block-Encryption-Challenge
-Overview:  This repository presents a public evaluation challenge for a newly developed symmetric block encryption algorithm based on a U.S. patent.  The purpose of this challenge is to allow companies, researchers, and security professionals to test the strength and behavior of the encryption method using real-world data.
+**Overview**:  This repository presents a public evaluation challenge for a newly developed symmetric block encryption algorithm based on a U.S. patent.  The purpose of this challenge is to allow companies, researchers, and security professionals to test the strength and behavior of the encryption method using real-world data.
 Algorithm Summary
 •	Type: Symmetric block cipher
 •	Block size: 2048 bits (fixed)
