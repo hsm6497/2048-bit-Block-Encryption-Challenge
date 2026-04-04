@@ -79,7 +79,6 @@ are welcome to make contact.
 ________________________________________
 Contact To participate, send a test file to:<br>
 Email: hsm6497@yahoo.com<br>
-Subject:<br>
-Encryption Evaluation Request<br>
+Subject: Encryption Evaluation Request<br>
 You will receive the encrypted file for analysis.
 ________________________________________
