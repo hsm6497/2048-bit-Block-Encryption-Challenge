@@ -1,12 +1,12 @@
 # 2048-bit-Block-Encryption-Challenge
 **Overview**:  This repository presents a public evaluation challenge for a newly developed symmetric block encryption algorithm based on a U.S. patent.  The purpose of this challenge is to allow companies, researchers, and security professionals to test the strength and behavior of the encryption method using real-world data.
-Algorithm Summary
-•	Type: Symmetric block cipher
-•	Block size: 2048 bits (fixed)
-•	Key size: User-defined, up to 256 bytes
-•	Output block size: 2048 bits
-•	File support: Any file type
-•	Encrypted output format: BMP container (for transport compatibility)
+Algorithm Summary<br>
+•	Type: Symmetric block cipher<br>
+•	Block size: 2048 bits (fixed)<br>
+•	Key size: User-defined, up to 256 bytes<br>
+•	Output block size: 2048 bits<br>
+•	File support: Any file type<br>
+•	Encrypted output format: BMP container (for transport compatibility)<br><br><br>
 The algorithm uses key-dependent permutation generation during encryption.
 The theoretical brute-force space for one block:
 2^2048 ≈ 3.23 × 10^616
