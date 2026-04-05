@@ -82,3 +82,7 @@ Email: hsm6497@yahoo.com<br>
 Subject: Encryption Evaluation Request<br>
 You will receive the encrypted file for analysis.
 ________________________________________
+**Disclaimer**
+This encryption method is proprietary and not publicly published.<br>
+This challenge is intended solely for evaluation purposes.<br>
+All rights reserved.
