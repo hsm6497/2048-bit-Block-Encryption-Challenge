@@ -59,17 +59,17 @@ ________________________________________
 **Intended Audience**<br>
 This challenge is intended for:
 
-•	Security companies
-•	Cryptography researchers
-•	Cryptocurrency researcher
-•	Software companies
-•	Government agencies
-•	Financial institutions
-•	Banking Industry
-•	Defense contractors
-•	Data protection vendors
-•	Cybersecurity companies
-•	Academic institutions
+•	Security companies<br>
+•	Cryptography researchers<br>
+•	Cryptocurrency researcher<br>
+•	Software companies<br>
+•	Government agencies<br>
+•	Financial institutions<br>
+•	Banking Industry<br>
+•	Defense contractors<br>
+•	Data protection vendors<br>
+•	Cybersecurity companies<br>
+•	Academic institutions<br>
 
 ________________________________________
 **Collaboration Opportunities**<br>
