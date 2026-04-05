@@ -59,13 +59,18 @@ ________________________________________
 **Intended Audience**<br>
 This challenge is intended for:
 
-- Security companies
-- Cryptography researchers
-- Software companies
-- Government agencies	
-- Financial Tech
-- Banking industry
-- Academic institutions
+•	Security companies
+•	Cryptography researchers
+•	Cryptocurrency researcher
+•	Software companies
+•	Government agencies
+•	Financial institutions
+•	Banking Industry
+•	Defense contractors
+•	Data protection vendors
+•	Cybersecurity companies
+•	Academic institutions
+
 ________________________________________
 **Collaboration Opportunities**<br>
 Organizations interested in:
@@ -82,7 +87,8 @@ Email: hsm6497@yahoo.com<br>
 Subject: Encryption Evaluation Request<br>
 You will receive the encrypted file for analysis.
 ________________________________________
-**Disclaimer**
+**Disclaimer**<br>
 This encryption method is proprietary and not publicly published.<br>
 This challenge is intended solely for evaluation purposes.<br>
+Commercial licensing and business collaboration are available upon request.<br>
 All rights reserved.
